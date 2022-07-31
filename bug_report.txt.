@@ -1,1 +1,16 @@
-
+Bug report
+    Title:"When you click on the Register button on the home page, the registration form doesn't open"
+    Project: The website ABC
+    Severity: Blocker
+    Priority: High
+    Status:"Open"
+    Author: QA Alexander Kanoda
+    Performer: Dev Thomas Anderson
+    Step to reproduce:
+      1) Open the website url....."
+      2) Left clik the button Registration.
+  Expected result
+    1) Pressing the register button opens the registration form.
+    2) The user fills in the form.
+    Actual result:
+    1) After pressing the "Register" button, the form does not open.
